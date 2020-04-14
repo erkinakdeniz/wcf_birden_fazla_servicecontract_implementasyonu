@@ -3,6 +3,7 @@
 
 ![APM](https://img.shields.io/apm/l/vim-mode)
 ![APM](https://img.shields.io/badge/University-MAKU-blue)
+![APM](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ## Dosya İçeriği
 * CompanyClientWeb `Aspx.Net`
 * ConpanyServiceHost `Console Application`
