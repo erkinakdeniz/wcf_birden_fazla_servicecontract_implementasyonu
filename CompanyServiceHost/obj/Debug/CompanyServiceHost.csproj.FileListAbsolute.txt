@@ -1,0 +1,11 @@
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\WCF_CompanyService\CompanyServiceHost\bin\Debug\CompanyServiceHost.exe.config
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\WCF_CompanyService\CompanyServiceHost\bin\Debug\CompanyServiceHost.exe
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\WCF_CompanyService\CompanyServiceHost\bin\Debug\CompanyServiceHost.pdb
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\WCF_CompanyService\CompanyServiceHost\bin\Debug\WCF_CompanyService.dll
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\WCF_CompanyService\CompanyServiceHost\bin\Debug\WCF_CompanyService.pdb
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\WCF_CompanyService\CompanyServiceHost\bin\Debug\WCF_CompanyService.dll.config
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\WCF_CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.csprojAssemblyReference.cache
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\WCF_CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\WCF_CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.csproj.CopyComplete
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\WCF_CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.exe
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\WCF_CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.pdb

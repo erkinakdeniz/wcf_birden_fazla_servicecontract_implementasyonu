@@ -1,0 +1,7 @@
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\WCF_CompanyService\WCF_CompanyService\bin\Debug\WCF_CompanyService.dll.config
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\WCF_CompanyService\WCF_CompanyService\bin\Debug\WCF_CompanyService.dll
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\WCF_CompanyService\WCF_CompanyService\bin\Debug\WCF_CompanyService.pdb
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\WCF_CompanyService\WCF_CompanyService\obj\Debug\WCF_CompanyService.csprojAssemblyReference.cache
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\WCF_CompanyService\WCF_CompanyService\obj\Debug\WCF_CompanyService.csproj.CoreCompileInputs.cache
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\WCF_CompanyService\WCF_CompanyService\obj\Debug\WCF_CompanyService.dll
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\WCF_CompanyService\WCF_CompanyService\obj\Debug\WCF_CompanyService.pdb
