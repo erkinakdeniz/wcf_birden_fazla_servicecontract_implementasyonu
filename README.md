@@ -1,5 +1,7 @@
 # WCF ile Birden Fazla ServiceContract Implementasyonu
 **Bu proje** çoklu ServiceContract ile yapılması gereken görevleri bölebiliyoruz. Örnek olarak şirket içinde farklı bir yapı kullanılsın şirket dışı ise farklı bir yapı kullanılsın isteyebiliriz. Bu da bize farklı platformlara farklı görev vermemizi kolaylaştırıyor. İstersek endpointlere göre de ayırabiliriz.
+
+![APM](https://img.shields.io/apm/l/vim-mode)
 ## Dosya İçeriği
 * CompanyClientWeb `Aspx.Net`
 * ConpanyServiceHost `Console Application`
