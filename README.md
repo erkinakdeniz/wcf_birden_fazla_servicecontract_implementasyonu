@@ -1,9 +1,18 @@
-# wcf_birden_fazla_servicecontract_implementasyonu
- //Neler Var
- #Çoklu ServiceContract Tanımlama 
- #netTCPBinding #netHttpBinding  
- 
- //Dosya içeriği 
- #CompanyClientWeb ->Aspx.Net 
- #ConpanyServiceHost ->Console Application 
- #WCF_CompanyService ->Class Library(.Net Fraamework) içine wcf service oluşturuldu.
+# WCF ile Birden Fazla ServiceContract Implementasyonu
+## Neler Var
+
+Çoklu ServiceContract Tanımlama
+
+netTCPBinding 
+
+netHttpBinding  
+
+## Dosya içeriği
+
+
+
+```bash
+CompanyClientWeb ->Aspx.Net 
+ConpanyServiceHost ->Console Application 
+WCF_CompanyService ->Class Library(.Net Fraamework) içine wcf service oluşturuldu.
+```
