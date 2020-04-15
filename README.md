@@ -4,6 +4,7 @@
 ![lisance](https://img.shields.io/apm/l/vim-mode)
 ![university](https://img.shields.io/badge/University-MAKU-blue)
 ![platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![framework](https://img.shields.io/badge/.NET%20Framework-4.5-orange)
 ## Dosya İçeriği
 * CompanyClientWeb `Aspx.Net`
 * ConpanyServiceHost `Console Application`
